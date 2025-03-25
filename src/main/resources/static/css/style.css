@@ -211,4 +211,19 @@ hr {
     color: #777;
 }
 
+.container {
+    background-image: url('/images/food.jpg'); /* Replace with actual image name */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 60px 20px;
+    min-height: 400px; /* Adjust as needed */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    border-top: 4px solid #4CAF50;
+}
+
+
 
