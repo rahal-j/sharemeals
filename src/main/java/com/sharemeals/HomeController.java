@@ -10,4 +10,9 @@ public class HomeController {
     public String index() {
         return "index"; // Will render /WEB-INF/views/index.jsp
     }
+    
+    @GetMapping("/about")
+    public String about() {
+        return "about"; // loads about.jsp
+    }
 }
