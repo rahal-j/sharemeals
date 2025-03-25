@@ -43,12 +43,12 @@
     <div class="team-member">
         <img src="/images/azaam.jpg" alt="Mohamed Azaam Shakkaf Mohamed">
         <h4>Mohamed Azaam Shakkaf Mohamed</h4>
-        <p>Frontend & UI Design</p>
+        <p>Project Manager</p>
     </div>
     <div class="team-member">
         <img src="/images/rahal.jpg" alt="Nalinda Rahal Jayathilaka Haputhantrige">
         <h4>Nalinda Rahal Jayathilaka Haputhantrige</h4>
-        <p>System Architecture & Integration</p>
+        <p>Frontend/Backend Developer</p>
     </div>
     <div class="team-member">
         <img src="/images/jagriti.jpg" alt="Jagriti">
@@ -58,7 +58,7 @@
 	<div class="team-member">
 	        <img src="/images/harleen.jpg" alt="Harleen Kaur">
 	        <h4>Harleen Kaur</h4>
-	        <p>Backend & Database</p>
+	        <p>Business Analyst</p>
 	</div>
 </div>
 
