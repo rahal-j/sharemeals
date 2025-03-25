@@ -177,4 +177,38 @@ hr {
     background-color: #388e3c;
 }
 
+/* Team Section */
+.team-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 30px;
+    gap: 30px;
+}
+
+.team-member {
+    text-align: center;
+    width: 180px;
+}
+
+.team-member img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    box-shadow: 0 0 8px rgba(0,0,0,0.2);
+    margin-bottom: 10px;
+}
+
+.team-member h4 {
+    font-size: 16px;
+    margin: 8px 0 4px;
+    color: #333;
+}
+
+.team-member p {
+    font-size: 14px;
+    color: #777;
+}
+
 

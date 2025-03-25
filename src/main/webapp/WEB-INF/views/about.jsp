@@ -36,6 +36,32 @@
         <a href="/" class="button">← Back to Home</a>
     </div>
 </div>
+<h3 style="margin-top: 40px;">Meet the Team</h3>
+
+<div class="team-grid">
+    
+    <div class="team-member">
+        <img src="/images/azaam.jpg" alt="Mohamed Azaam Shakkaf Mohamed">
+        <h4>Mohamed Azaam Shakkaf Mohamed</h4>
+        <p>Frontend & UI Design</p>
+    </div>
+    <div class="team-member">
+        <img src="/images/rahal.jpg" alt="Nalinda Rahal Jayathilaka Haputhantrige">
+        <h4>Nalinda Rahal Jayathilaka Haputhantrige</h4>
+        <p>System Architecture & Integration</p>
+    </div>
+    <div class="team-member">
+        <img src="/images/jagriti.jpg" alt="Jagriti">
+        <h4>Jagriti</h4>
+        <p>Research & Content Writing</p>
+    </div>
+	<div class="team-member">
+	        <img src="/images/harleen.jpg" alt="Harleen Kaur">
+	        <h4>Harleen Kaur</h4>
+	        <p>Backend & Database</p>
+	</div>
+</div>
+
 
 </body>
 </html>
