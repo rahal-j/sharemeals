@@ -14,7 +14,7 @@
 
 <div class="container">
     <a href="/users" class="button">Manage Users</a>
-	<a href="/register" class="button" style="margin-left: 10px;">Register User</a>
+	<a href="/register" class="button" style="margin-left: 10px;">Become a Doner</a>
 </div>
 
 </body>
